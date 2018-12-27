@@ -17,6 +17,5 @@ namespace DevopsCaseStudy
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
-
     }
 }
