@@ -8,13 +8,22 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		DevPooja|Any CPU = DevPooja|Any CPU
+		ProdPooja|Any CPU = ProdPooja|Any CPU
 		Release|Any CPU = Release|Any CPU
+		TestPooja|Any CPU = TestPooja|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{8FA03A09-6E26-489C-B4F2-164F4F31A5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8FA03A09-6E26-489C-B4F2-164F4F31A5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA03A09-6E26-489C-B4F2-164F4F31A5CA}.DevPooja|Any CPU.ActiveCfg = DevPooja|Any CPU
+		{8FA03A09-6E26-489C-B4F2-164F4F31A5CA}.DevPooja|Any CPU.Build.0 = DevPooja|Any CPU
+		{8FA03A09-6E26-489C-B4F2-164F4F31A5CA}.ProdPooja|Any CPU.ActiveCfg = ProdPooja|Any CPU
+		{8FA03A09-6E26-489C-B4F2-164F4F31A5CA}.ProdPooja|Any CPU.Build.0 = ProdPooja|Any CPU
 		{8FA03A09-6E26-489C-B4F2-164F4F31A5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FA03A09-6E26-489C-B4F2-164F4F31A5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA03A09-6E26-489C-B4F2-164F4F31A5CA}.TestPooja|Any CPU.ActiveCfg = TestPooja|Any CPU
+		{8FA03A09-6E26-489C-B4F2-164F4F31A5CA}.TestPooja|Any CPU.Build.0 = TestPooja|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
